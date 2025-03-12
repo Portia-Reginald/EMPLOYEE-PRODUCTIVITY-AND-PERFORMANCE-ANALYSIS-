@@ -262,7 +262,7 @@ D. **Full Analysis:**
 4. Lowest satisfied age group:
    - **Early Career 48.56%** (Ages 22-35, having all positions).
 
----
+
 
 ## COMPREHENSIVE PREDICTIONS, TURNOVER RISKS, AND RECOMMENDATIONS.
 
@@ -393,7 +393,10 @@ D. **Full Analysis:**
 
    ➜ Females earn $73,195 more in total than males—this pay gap could cause dissatisfaction among male employees over time.
 
----
+
+
+
+
 
 ## CONCLUSION
 
@@ -421,7 +424,9 @@ Based on the analysis, it is clear that addressing key areas of employee satisfa
 
 By implementing these strategies, the organization can effectively reduce turnover risks, improve employee satisfaction, and maintain a productive, engaged workforce across all levels.
 
----
+
+
+
 
 ## CONTACT ME
 
