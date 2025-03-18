@@ -4,7 +4,7 @@
 
 This project analyzes the relationship between employee satisfaction and productivity while exploring the impact of other variables such as salary, position, and gender.
 
-Through this analysis, I identified the most and least productive departments, the factors driving these outcomes, and provided targeted recommendations to optimize employee performance and retention.
+Through this analysis, I identified the most and least productive departments, some factors driving these outcomes, and provided targeted recommendations to optimize employee performance and retention.
 
 ## DATASET INFORMATION
 
